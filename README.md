@@ -7,6 +7,5 @@
 - 🔭 I’m currently working on **Rheax** a ReactJS application to monitor and manage infrastructures ! 
 - 🌱 I’m currently perfecting **JavaScript and his frameworks**
 - 💬 Ask me about **JavaScript, Git and NoSQL**
-- 📫 How to reach me: [@d0ntheo](https://twitter.com/d0ntheo) on Twitter
 
 -------
