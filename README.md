@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on **Rheax** a ReactJS application to monitor and manage infrastructures ! 
-- 🌱 I’m currently learning **Ruby and his framework 'Rails'**
+- 🌱 I’m currently perfecting **JS and his framework 'React'**
 - 💬 Ask me about **JavaScript, Git and NoSQL**
 
 -------
