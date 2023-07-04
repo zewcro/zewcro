@@ -6,3 +6,11 @@
 - 💬 Ask me about **Python,Javascript,Rheax,Git,Databases or whatever you want ;)**
 
 -------
+
+
+
+<!--START_SECTION:waka-->
+
+
+
+<!--END_SECTION:waka-->
