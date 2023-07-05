@@ -8,7 +8,7 @@
 -------
 
 
-
+Recently, I have primarily been working with the following technologies : 
 <!--START_SECTION:waka-->
 
 ```txt
