@@ -1,7 +1,17 @@
-<h1 align="center">Hi 👋, I'm Théo</h1>
+<h1 align="center">Hi ! I'm Théo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <h3 align="center">Fullstack developer from Paris, France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zewcro&label=Profile%20views&color=0e75b6&style=flat" alt="zewcro" /> </p>
+<div id="header" align="center">
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=zewcro&label=Profile%20views&color=0e75b6&style=flat" alt="zewcro" /> </p>
+
+</div>
+</div>
+
+
+
 
 - 🔭 I’m currently working on **Rheax2 a ReactJS & Python application to monitor and manage infrastructures !**
 
