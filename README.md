@@ -5,7 +5,7 @@
 
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=zewcro&label=Profile%20views&color=0e75b6&style=flat" alt="zewcro" /> </p>
+  <a href="https://www.linkedin.com/in/th%C3%A9o-rousseau-a20b0916b/"><p align="center"> <img src="https://komarev.com/ghpvc/?username=zewcro&label=Profile%20views&color=0e75b6&style=flat" alt="zewcro" /> </p></a>
 
 </div>
 </div>
