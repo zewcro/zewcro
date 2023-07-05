@@ -38,7 +38,6 @@ TypeScript   0 secs          ░░░░░░░░░░░░░░░░░
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
-
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools that i used recently :</h3>
