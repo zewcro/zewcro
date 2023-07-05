@@ -31,14 +31,6 @@ Recently, I have primarily been working with the following technologies :
 
 <!--START_SECTION:waka-->
 
-```txt
-JavaScript   1 hr 6 mins     ████████████▓░░░░░░░░░░░░   50.36 %
-Python       42 mins         ████████░░░░░░░░░░░░░░░░░   32.25 %
-SCSS         22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-```
-
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools that i used recently :</h3>
