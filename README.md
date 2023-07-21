@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Rheax2 a ReactJS & Python application to monitor and manage infrastructures !**
 
-- 🌱 I’m currently learning **RabbitMQ**
+- 🌱 I’m currently learning **HTMX**
 
 - 👨‍💻 All of my projects are available at [/](/)
 
