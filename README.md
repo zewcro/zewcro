@@ -32,11 +32,11 @@ Recently, I have primarily been working with the following technologies :
 <!--START_SECTION:waka-->
 
 ```txt
-Python       6 hrs 11 mins   ███████████▓░░░░░░░░░░░░░   46.65 %
-HTML         4 hrs 5 mins    ███████▓░░░░░░░░░░░░░░░░░   30.82 %
-CSS          1 hr 38 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
-JavaScript   30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-YAML         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Python       5 hrs 16 mins   ████████████████▒░░░░░░░░   65.94 %
+HTML         1 hr 31 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.07 %
+CSS          46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
+YAML         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:waka-->
