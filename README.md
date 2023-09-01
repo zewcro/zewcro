@@ -32,7 +32,10 @@ Recently, I have primarily been working with the following technologies :
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   25 mins         ████████████████████████▓   99.14 %
+C#       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Java     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Ezhil    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
