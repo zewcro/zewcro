@@ -32,11 +32,11 @@ Recently, I have primarily been working with the following technologies :
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    8 hrs 50 mins   ████████████▓░░░░░░░░░░░░   51.29 %
-Python        4 hrs 12 mins   ██████░░░░░░░░░░░░░░░░░░░   24.39 %
-Other         3 hrs 23 mins   █████░░░░░░░░░░░░░░░░░░░░   19.72 %
-CSS           42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-Bash          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+TypeScript    12 hrs 21 mins  ██████████████░░░░░░░░░░░   56.07 %
+Python        3 hrs 46 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.16 %
+Other         3 hrs 37 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
+CSS           1 hr 53 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+JSON          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
