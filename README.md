@@ -13,13 +13,13 @@
 
 
 
-- 🔭 I’m currently working on **Rheax2 a ReactJS & Python application to monitor and manage infrastructures !**
+- 🔭 I’m currently working at **Noota**
 
-- 🌱 I’m currently learning **HTMX**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [/](/)
 
-- 💬 Ask me about **Django, React, databases or whatever you want ;)**
+- 💬 Ask me about **Django,FastAPI, React, databases or whatever you want ;)**
 
 - 📫 How to reach me **theorousseau75@gmail.com**
 
