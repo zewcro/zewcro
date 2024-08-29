@@ -32,9 +32,9 @@ Recently, I have primarily been working with the following technologies :
 <!--START_SECTION:waka-->
 
 ```txt
-Python   10 hrs 18 mins  ████████████████████████▓   98.28 %
-Other    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-INI      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python   8 hrs 30 mins   ████████████████████████▒   97.91 %
+Other    10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+INI      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
