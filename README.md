@@ -32,8 +32,8 @@ Recently, I have primarily been working with the following technologies :
 <!--START_SECTION:waka-->
 
 ```txt
-Python   5 hrs 58 mins   ███████████████████████▒░   93.44 %
-Other    25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+Python   5 hrs 5 mins    ███████████████████████░░   92.40 %
+Other    25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
 ```
 
 <!--END_SECTION:waka-->
