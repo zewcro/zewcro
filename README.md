@@ -32,8 +32,10 @@ Recently, I have primarily been working with the following technologies :
 <!--START_SECTION:waka-->
 
 ```txt
-Python   5 hrs 5 mins    ███████████████████████░░   92.40 %
-Other    25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+Python        5 hrs 47 mins   ████████████████████▒░░░░   81.79 %
+TypeScript    40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
+Other         33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+Image (svg)   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
