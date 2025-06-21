@@ -32,8 +32,7 @@ Recently, I have primarily been working with the following technologies :
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         0 secs          █████████████████████▓░░░   87.25 %
-TypeScript   0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
